@@ -25,12 +25,12 @@ Official website:- https://cheerio.js.org/
    `npm install`
    
 3 Usage
-`const bsse_url = 'https://www.collegedekho.com/dental/colleges-in-india/';
+`const base_url = 'https://www.collegedekho.com/dental/colleges-in-india/';
 `
 
 4 Scraper
 
-`node index.js.`
+`node app.js`
 
 
 
